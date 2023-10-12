@@ -27,8 +27,8 @@ body::before {
   top: 0;
   height: 100vh;
   z-index: -1;
-  -webkit-animation: animate-bg 4s ease-in-out infinite;
-  animation: animate-bg 4s ease-in infinite;
+  -webkit-animation: animate-bg 3s ease-in-out infinite;
+  animation: animate-bg 3s ease-in infinite;
 }
 
 @keyframes animate-bg {
